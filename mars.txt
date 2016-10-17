@@ -1,3 +1,3 @@
 Mars is the fourth planet in the Solar System.
 It is red and dusty, but rumour has it that there is water in them there hills.
-
+There are two landers moving around: Opportunity and Curiosity. 
